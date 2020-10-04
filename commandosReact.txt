@@ -1,0 +1,34 @@
+Ver version de node js
+----------------------
+
+node -v
+
+Ver version de npm
+------------------
+
+npm -v
+
+Crear app en react
+------------------
+
+xpm craete-react-app nombredelaapp
+
+
+Arrancar servidor react
+-----------------------
+
+npm start (dentro del proyecto)
+
+
+Generar Ids Unicos
+------------------
+
+npm i uuid - Ids Grandes
+
+npm i shortid - Ids Cortos
+
+
+Crear Build de Produccion
+-----------------------
+
+npm run build
